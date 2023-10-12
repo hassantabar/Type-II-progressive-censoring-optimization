@@ -4,7 +4,7 @@ This simulation code adopts a sequential optimal design as a multi-objective opt
 The simulation code of the sequential approach has two steps for combining three objective criteria, including Q1, Q2, and Q3.
 
 
-In a simulation study, the ordering of the simulation code that should be run is as follows;
+In a simulation study, the ordering of the simulation code should be run as follows;
 1.	Run two functions, “func-generat data-plogit.R” and “func-variance measure.R”
 2.	Run step 1, “step1.R”.
 by determining the primary parameters such as (m,n) for type II progressive censoring,
