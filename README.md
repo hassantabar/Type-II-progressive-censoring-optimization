@@ -11,6 +11,7 @@ by determining the primary parameters such as (m,n) for type II progressive cens
 This step needs the data that is calculated from the previous step.
 
 
+![image](https://github.com/hassantabar/Type-II-progressive-censoring-optimization/assets/145746409/588dc8f1-7d1f-4153-842f-b4d54299a9c7)
 
  
 
