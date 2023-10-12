@@ -20,5 +20,10 @@ This step needs the data that is calculated from the previous step.
  ![image](https://github.com/hassantabar/Type-II-progressive-censoring-optimization/assets/145746409/40ce093b-4d17-4d34-8065-8e66c513aaec)
 
 
+The real data analysis code for obtaining the sequential optimal design has two steps.  To run the codes needs the following steps,
+1.	Specify the real data set.
+2.	The parameters of the  distribution should be estimated. Also, the primary parameters such as (m,n), (alpha0, alpha1) and cost coefficients should be determined. 
+3.	Run “real data-Step1”. 
+4.	Run “real data-Step2”. 
 
  
